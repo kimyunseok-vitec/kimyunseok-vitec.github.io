@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "VITEC"
 title_separator          : "-"
 name                     : &name "김윤석"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "한글 테스트-personal description section"
+url                      : https://kimyunseok-vitec.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kimyunseok-vitec/kimyunseok-vitec.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "김윤석"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "짧은 bio 테스트용"
+  location         : "주소"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kimyunseok.vitec@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
