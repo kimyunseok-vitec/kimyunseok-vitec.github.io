@@ -5,7 +5,8 @@ on:
     paths:
       - 'talks/**'
       - 'talkmap.ipynb'
-
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,8 +30,8 @@ jobs:
 
     - name: Commit changes
       run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "kimyunseok-vitec"
+        git config user.email "kimyunseok-vitec@gmail.com"
         git add .
         git commit -m "Automated update of talk locations" || echo "No changes to commit"
         git push
