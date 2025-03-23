@@ -8,14 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Talks"
-    url: /talks/    
-    
-  - title: "Portfolio"
+  - title: "포트폴리오"
     url: /portfolio/
             
-  - title: "CV"
+  - title: "경력"
     url: /cv/
-    
+
+  - title: "기타"
+    url: /talks/    
+
   # - title: "CV"
   #   url: /cv-json/
