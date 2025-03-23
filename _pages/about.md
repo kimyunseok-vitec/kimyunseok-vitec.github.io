@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "VITEC 소개 페이지에 오신 것을 환영합니다."
 author_profile: true
 redirect_from: 
   - /about/
