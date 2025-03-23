@@ -22,7 +22,7 @@ repository               : "kimyunseok-vitec/kimyunseok-vitec.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfie_kys.png"
   name             : "김윤석"
   pronouns         : # example: "she/her"  
   bio              : "짧은 bio 테스트용"
