@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "전동화구동설계센터장 직속 신뢰성 qM 그룹 리더 (2022-2024)"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* 전동화부품의 신뢰성 설계 및 ES시험 체계 구축  
+    * DqM(Design quality Matrix) FMEA & TqM (Test quality Matrix) 
+    * ASME GD&T (Y14.5-2009)
