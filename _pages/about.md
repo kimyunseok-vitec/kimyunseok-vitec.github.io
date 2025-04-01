@@ -33,6 +33,7 @@ redirect_from:
   * FMEA, DRBFM 기반의 부품 ES 원리해설서 제작 및 ES 구축
   * DqM FMEA & TqM 프로세스 접목을 통한 부품 신뢰성 구축
   * 8D 보고서 기반 전사 협업체계 구축
+  * 신뢰성공학 (기본,향상)
 1. 품질(Quality) Domain
   * 자동차 Core Tool(APQP, PPAP, MSA, SPC 등) 기반 품질 시스템 
   * ESIR, ISIR 대응 및 양산문제 중심 품질 활동 설계
