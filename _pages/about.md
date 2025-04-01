@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "바이텍"
+title: "바이텍 (VITEC)"
 author_profile: true
 redirect_from: 
   - /about/

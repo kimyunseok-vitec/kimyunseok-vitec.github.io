@@ -1,6 +1,6 @@
 ---
 title: "엔진설계센터/ 전동화구동설계센터 신뢰성 간사/ 엔진설계실MBB (2014-2021)"
-excerpt: ""
+excerpt: " "
 collection: portfolio
 ---
 * 신뢰성 설계/예방설계/시험분석/정량적ES개발 등     

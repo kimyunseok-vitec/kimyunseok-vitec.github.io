@@ -1,6 +1,6 @@
 ---
 title: "가솔린엔진설계팀 부품 담당 및 엔진 내구성 간사 (1989.12–2003.12)"
-excerpt: ""
+excerpt: " "
 collection: portfolio
 ---
 
