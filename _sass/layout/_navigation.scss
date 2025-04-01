@@ -369,7 +369,7 @@
   margin: 0.5rem 0;
   padding: 0.5rem 0;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-6;
+  font-size: $type-size-8;
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid var(--global-border-color);
@@ -392,7 +392,7 @@
 
   .nav__title {
     color: #fff;
-    font-size: $type-size-8;
+    font-size: $type-size-6;
     background: var(--global-base-color);
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
