@@ -1,5 +1,6 @@
 ---
 title: "DFSS 프로젝트 컨설턴트 및 교육 강의 (2004–2013)"
+excerpt: ""
 collection: portfolio
 ---
 

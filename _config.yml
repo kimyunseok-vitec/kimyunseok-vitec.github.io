@@ -22,12 +22,12 @@ repository               : "kimyunseok-vitec/kimyunseok-vitec.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selfie_kys.png"
+  avatar           : "selfie_kys.jpg"
   name             : "김윤석"
   pronouns         : # example: "she/her"  
   bio              : "짧은 bio 테스트용"
   location         : "서울특별시 강동구 고덕로 333"
-  employer         : "Red Brick University"
+  employer         : "바이텍 (VITEC)"
   uri              : # URL
   email            : "kimyunseok.vitec@gmail.com" 
 
