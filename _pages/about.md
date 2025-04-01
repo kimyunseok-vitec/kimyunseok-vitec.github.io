@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+<img src='/images/logo1.png'>
+
+
 자동차(Vehicle) 부품 개발에 혁신적(Innovative)인 품질과 신뢰성 향상 기술(Technology)에 대한 교육 (Education) 및 컨설팅 (Consulting) 을 제공합니다.
 
 김윤석 I 대표 & 수석 컨설턴트
