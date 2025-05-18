@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "바이텍 홈페이지에 오신 것을 환영합니다."
+title: "바이텍 코리아 홈페이지에 오신 것을 환영합니다."
 author_profile: true
 redirect_from: 
   - /about/

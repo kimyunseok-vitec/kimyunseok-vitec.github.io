@@ -13,7 +13,7 @@ collection: portfolio
 * RICARDO(영) 협업 프로젝트 참여
 * 엔진(HW & SW) 내구성 향상 프로젝트 총괄 간사 
     * 이현순 마북리연구소장 주관  엔진 내구성 향상 총괄 간사 
-    * 차량 BUY BACK분석, 경쟁차 분석, TRC, MODUS 용역 결과 분석, 미국 현지 방문 고품 분석을 통해  Mixed Durability Test 제안 및 최종 보고서 직성 보고 
+    * 차량 BUY BACK분석, 경쟁차 분석, TRC, MODUS 용역 결과 분석, 미국 현지 방문 고품 분석을 통해  Mixed Durability Test 제안 및 최종 보고서 작성 보고 
     * 최종 보고서 기반 10Y10M을 위한 엔진 부품 선정 및 대책 안 수립
 * 인도 연구소 현지 설계,생산 지원 활동 
 
